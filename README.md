@@ -1,7 +1,8 @@
 # ITHS.NET.Databas.Lab2
 
-Denna lab ingick i kursen "Utveckling mot databas och databasadministration 45p" på IT-Högskolan i Göteborg som jag läste våren år 2021.
+Denna lab ingick i kursen "Utveckling mot databas och databasadministration 45p" på IT-Högskolan i Göteborg som jag läste våren år 2021. En sammanfattande bild på vilka tabeller som jag skapade i labben:
 
+![](BookstoreDiagram.JPG)
 ## Uppgiftsbeskrivningen för labben:
 #### Designa en databas för en bokhandel
 Vi vill bygga en databas som kan användas till en bokhandel med flera butiker.
