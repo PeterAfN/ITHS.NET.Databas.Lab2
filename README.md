@@ -1,6 +1,6 @@
 # ITHS.NET.Databas.Lab2
 
-Denna lab ingick i kursen "Utveckling mot databas och databasadministration 45p" på IT-Högskolan i Göteborg som jag läste våren år 2021. En sammanfattande bild på vilka tabeller som jag skapade i labben:
+Denna lab ingick i kursen "Utveckling mot databas och databasadministration 45p" på IT-Högskolan i Göteborg som jag läste våren år 2021. En sammanfattande bild på vilka tabeller som jag skapade för labben:
 
 ![](BookstoreDiagram.JPG)
 ## Uppgiftsbeskrivningen för labben:
